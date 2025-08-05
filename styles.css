@@ -906,13 +906,7 @@ textarea {
   display: none !important; /* Use !important to ensure override */
 }
 
-.position-fixed {
-  position: fixed !important; /* Use !important to ensure override */
-  width: 100%;
-  top: 0;
-  left: 0;
-  z-index: 999;
-}
+
 
 .no-scroll {
   overflow: hidden !important; /* Prevents body scrolling */
